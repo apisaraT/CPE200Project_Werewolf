@@ -1171,7 +1171,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1986968633}
   m_HandleRect: {fileID: 1986968632}
   m_Direction: 2
-  m_Value: 0
+  m_Value: 1
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -4558,6 +4558,7 @@ MonoBehaviour:
   werewolf_seer: {fileID: 21300000, guid: 7fe3b88810e858246b93bc61a132740d, type: 3}
   werewolf_shaman: {fileID: 21300000, guid: e63af349d6bd1084cafa2fd5f21764da, type: 3}
   blank: {fileID: 21300000, guid: 99196c1048c707a469bba53fdb60972e, type: 3}
+  blabla: {fileID: 21300000, guid: 1c132afea1cba7e4ca321e67b3c6c3fe, type: 3}
   day: {fileID: 21300000, guid: c0f49041c97184940abbb9a6aaba99c1, type: 3}
   night: {fileID: 21300000, guid: 4cef5aa6ea90e9a4fa05c8ed813845a3, type: 3}
 --- !u!1 &1566391243

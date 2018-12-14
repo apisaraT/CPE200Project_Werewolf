@@ -115,6 +115,7 @@ public class PlayerDisplay : WerewolfElement{
             // blank charactor
             roleImage.sprite = MainApp.imageResource.blank;
         }
+       
     }
 
 }

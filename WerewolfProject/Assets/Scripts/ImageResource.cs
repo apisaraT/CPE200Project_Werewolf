@@ -21,8 +21,9 @@ public class ImageResource : WerewolfElement {
     public Sprite werewolf_seer;
     public Sprite werewolf_shaman;
     public Sprite blank;
+    public Sprite dead;
 
-    
+
     public Sprite day;
     public Sprite night;
 }
